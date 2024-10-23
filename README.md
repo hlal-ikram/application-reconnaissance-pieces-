@@ -51,9 +51,5 @@ Exécutez toutes les cellules du notebook pour lancer l'application.
 - **VGG16** : Modèle CNN pré-entraîné utilisé pour l'extraction des caractéristiques des images.
 - **SVM** : Modèle sélectionné pour la classification finale en raison de ses performances optimales.
 
-## 📈 Améliorations futures
-- Augmentation du dataset pour améliorer la précision des prédictions.
-- Exploration de nouveaux modèles de machine learning pour augmenter la robustesse et la précision des résultats.
-- Optimisation de l'interface utilisateur pour une meilleure expérience.
 
 
