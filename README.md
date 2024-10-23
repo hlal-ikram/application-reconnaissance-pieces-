@@ -28,6 +28,11 @@ Le dataset utilisé pour ce projet est disponible sur Kaggle :
 - **Tkinter** pour l'interface graphique.
 - **Pillow** pour la gestion et le traitement des images.
 
+## 🖼️ Capture d'écran de l'application
+Voici une capture d'écran de l'application en action :
+![Capture d'écran de l'application](screen.png) <!-- Remplacez le nom du fichier par le nom réel de votre capture d'écran -->
+
+
 ## 📦 Installation
 Clonez ce repository :
 ```bash
