@@ -48,10 +48,10 @@ Clonez ce repository :
 ```bash
 git clone https://github.com/hlal-ikram/application-reconnaissance-pieces.git
 cd application-reconnaissance-pieces
-
+```
 Installez les dépendances requises :
 ```bash
 pip install tensorflow keras scikit-learn pillow
-
+```
 Exécutez toutes les cellules du notebook pour lancer l'application.
 
