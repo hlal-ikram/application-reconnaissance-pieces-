@@ -28,6 +28,19 @@ Le dataset utilisé pour ce projet est disponible sur Kaggle :
 - **Tkinter** pour l'interface graphique.
 - **Pillow** pour la gestion et le traitement des images.
 
+## 📦 Installation
+Clonez ce repository :
+```bash
+git clone https://github.com/hlal-ikram/application-reconnaissance-pieces.git
+cd application-reconnaissance-pieces
+```
+Installez les dépendances requises :
+```bash
+pip install tensorflow keras scikit-learn pillow
+```
+Exécutez toutes les cellules du notebook pour lancer l'application.
+
+
 ## 💻 Utilisation
 1. Ouvrez le fichier `programme.ipynb` dans Jupyter Notebook.
 2. Exécutez les cellules pour lancer l'interface graphique.
@@ -43,15 +56,4 @@ Le dataset utilisé pour ce projet est disponible sur Kaggle :
 - Exploration de nouveaux modèles de machine learning pour augmenter la robustesse et la précision des résultats.
 - Optimisation de l'interface utilisateur pour une meilleure expérience.
 
-## 📦 Installation
-Clonez ce repository :
-```bash
-git clone https://github.com/hlal-ikram/application-reconnaissance-pieces.git
-cd application-reconnaissance-pieces
-```
-Installez les dépendances requises :
-```bash
-pip install tensorflow keras scikit-learn pillow
-```
-Exécutez toutes les cellules du notebook pour lancer l'application.
 
